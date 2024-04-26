@@ -1,0 +1,39 @@
+﻿@using Riode_BackendProject.Models
+
+@model List<Category>
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Categories</h4>
+                    <a asp-action="Create" class="btn btn-primary">Create</a>
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var category in Model)
+                                {
+                                    <tr>
+                                      
+                                        <td>@category.Name</td>
+                                        <td>
+                                            <a class="btn btn-warning" asp-action="Update" asp-route-id="@category.Id">Update</a>
+                                            <a class="btn btn-danger deleteBtn" asp-action="Delete" asp-route-id="@category.Id">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

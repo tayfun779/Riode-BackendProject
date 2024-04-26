@@ -1,0 +1,37 @@
+﻿@using Riode_BackendProject.Models
+
+@model List<Subscribe>
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Subscribes</h4>
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var Subscribe in Model)
+                                {
+                                    <tr>
+
+                                        <td>@Subscribe.Email</td>
+                                        <td>
+                                            <a class="btn btn-danger deleteBtn" asp-action="Delete" asp-route-id="@Subscribe.Id">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

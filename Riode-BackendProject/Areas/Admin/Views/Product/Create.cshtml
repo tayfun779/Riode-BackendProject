@@ -1,0 +1,105 @@
+﻿@model ProductCreateViewModel
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create Product</h4>
+
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" >
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" >
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" >
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+
+
+
+            <div class="form-group">
+                <label asp-for="Count"></label>
+                <input asp-for="Count" class="form-control" >
+                <span asp-validation-for="Count" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Rating"></label>
+                <input asp-for="Rating" class="form-control" >
+                <span asp-validation-for="Rating" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Material"></label>
+                <input asp-for="Material" class="form-control" >
+                <span asp-validation-for="Material" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Manufacturer"></label>
+                <input asp-for="Manufacturer" class="form-control" >
+                <span asp-validation-for="Manufacturer" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="SKU"></label>
+                <input asp-for="SKU" class="form-control">
+                <span asp-validation-for="SKU" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="DiscountPercent"></label>
+                <input asp-for="DiscountPercent" class="form-control">
+                <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+
+                <select asp-for="CategoryId">
+                    <option selected disabled>Choose Category</option>
+                    @foreach (Category category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+
+            </div>
+
+
+
+            <div class="form-group">
+
+                <select asp-for="BrandId">
+                    <option selected disabled>Choose Brand</option>
+                    @foreach (Brand brand in ViewBag.Brands)
+                    {
+                        <option value="@brand.Id">@brand.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="BrandId" class="text-danger"></span>
+
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="ProductImages"></label>
+                <input asp-for="ProductImages" class="form-control" >
+                <span asp-validation-for="ProductImages" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary me-2">Submit</button>
+            <button class="btn btn-light" asp-action="index">Cancel</button>
+        </form>
+    </div>
+</div>

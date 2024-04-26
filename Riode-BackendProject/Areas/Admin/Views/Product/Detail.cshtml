@@ -1,0 +1,28 @@
+﻿@model Product
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card">
+                @foreach(var img in Model.ProductImages){
+                    <img class="card-img-top" src="~/images/@img.Path" style="width: 25%" alt="Card image cap">
+
+                }        
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text">Description: @Model.Description</p>
+                    <p class="card-text">Price: @Model.Price</p>
+                    <p class="card-text">Discount : @Model.DiscountPercent</p>
+                    <p class="card-text">Material : @Model.Material</p>
+                    <p class="card-text">Brand : @Model.Brand.Name</p>
+                    <p class="card-text">Category : @Model.Category.Name</p>
+
+                    <div class="btn-box d-flex">
+                        <a asp-action="Index" class="btn btn-primary mr-3">Go Back</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
