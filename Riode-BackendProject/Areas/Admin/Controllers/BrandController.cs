@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Riode_BackendProject.Areas.Admin.ViewModels;
 using Riode_BackendProject.Contexts;
@@ -6,6 +7,7 @@ using Riode_BackendProject.Models;
 
 namespace Riode_BackendProject.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin,Moderator")]
 public class BrandController : Controller
 {
     private readonly AppDbContext _context;

@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Riode_BackendProject.Contexts;
 
 namespace Riode_BackendProject.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin,Moderator")]
+
 public class SubscribeController : Controller
 {
     private readonly AppDbContext _context;

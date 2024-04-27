@@ -1,20 +1,28 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NuGet.Common;
 using Riode_BackendProject.Areas.Admin.ViewModels;
 using Riode_BackendProject.Contexts;
+using Riode_BackendProject.Helpers;
 using Riode_BackendProject.Helpers.Extensions;
 using Riode_BackendProject.Models;
+using Riode_BackendProject.ViewModels;
 
 namespace Riode_BackendProject.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin,Moderator")]
+
 public class BlogController : Controller
 {
     private readonly AppDbContext _context;
     private readonly IWebHostEnvironment _webHostEnvironment;
-    public BlogController(AppDbContext context, IWebHostEnvironment webHostEnvironment)
+    private readonly IConfiguration _configuration;
+    public BlogController(AppDbContext context, IWebHostEnvironment webHostEnvironment, IConfiguration configuration)
     {
         _context = context;
         _webHostEnvironment = webHostEnvironment;
+        _configuration = configuration;
     }
 
     public async Task<IActionResult> Index()
@@ -90,6 +98,21 @@ public class BlogController : Controller
 
         await _context.Blogs.AddAsync(blog);
         await _context.SaveChangesAsync();
+
+
+        //email gonderme
+
+        var subscribes = await _context.Subscribes.ToListAsync();
+
+        string link = Url.Action("Index", "Blog", new { area = "" }, HttpContext.Request.Scheme);
+
+        string body = $"<a href='{link}'>New Blog</a>";
+
+        EmailHelper emailHelper = new EmailHelper(_configuration);
+        foreach (var email in subscribes)
+        {
+            await emailHelper.SendEmailAsync(new MailRequest { ToEmail = email.Email, Subject = "New blog", Body = body });
+        }
 
         return RedirectToAction("Index");
 
@@ -199,5 +222,5 @@ public class BlogController : Controller
         return RedirectToAction("Index");
     }
 
-    
+
 }

@@ -3,16 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\viewmodels\\productdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\viewmodels\\productdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\views\\user\\changerole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\views\\user\\changerole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\viewmodels\\userviewmodels\\usergetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\viewmodels\\userviewmodels\\usergetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|c:\\users\\dell\\source\\repos\\riode-backendproject\\riode-backendproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFB3E5-581E-4788-8AD9-10193A661471}|Riode-BackendProject\\Riode-BackendProject.csproj|solutionrelative:riode-backendproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +110,335 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\ViewModels\\BlogViewModel.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\ViewModels\\BlogViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\ViewModels\\BlogViewModel.cs",
+              "RelativeToolTip": "Riode-BackendProject\\ViewModels\\BlogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:05:21.935Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDetailViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\ViewModels\\ProductDetailViewModel.cs",
-              "RelativeDocumentMoniker": "Riode-BackendProject\\ViewModels\\ProductDetailViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\ViewModels\\ProductDetailViewModel.cs",
-              "RelativeToolTip": "Riode-BackendProject\\ViewModels\\ProductDetailViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:15:06.323Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAANMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:59:33.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Riode-BackendProject\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Riode-BackendProject\\Controllers\\ShopController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCcAAAAWAAAA",
+              "DocumentIndex": 7,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:14:43.297Z",
+              "WhenOpened": "2024-04-27T02:59:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:35:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:43:56.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:19:57.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Riode-BackendProject\\Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "Riode-BackendProject\\Views\\Shop\\Detail.cshtml",
-              "ViewState": "AQIAAGwBAAAAAAAAAADwv3gBAABBAAAA",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Blog\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Views\\Blog\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Blog\\Detail.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Views\\Blog\\Detail.cshtml",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAkwAIBAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T11:03:14.742Z",
+              "WhenOpened": "2024-04-27T02:29:33.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAUwGUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:20:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubscribeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\SubscribeController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\SubscribeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\SubscribeController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\SubscribeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:59:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:59:05.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:59.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:46.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:48.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:35.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:58:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:52:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:52:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangeRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\User\\ChangeRole.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Views\\User\\ChangeRole.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\User\\ChangeRole.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Views\\User\\ChangeRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:52:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserGetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\ViewModels\\UserViewModels\\UserGetViewModel.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\ViewModels\\UserViewModels\\UserGetViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\ViewModels\\UserViewModels\\UserGetViewModel.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\ViewModels\\UserViewModels\\UserGetViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:39:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:37:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:37:17.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Riode-BackendProject\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:33:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode-BackendProject\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Riode-BackendProject\\Riode-BackendProject\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Riode-BackendProject\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:26:07.952Z",
               "EditorCaption": ""
             }
           ]

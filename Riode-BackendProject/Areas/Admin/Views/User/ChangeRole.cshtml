@@ -1,0 +1,26 @@
+﻿@model UserChangeRoleViewModel
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Update Role</h4>
+
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+
+            <p>@Model.Username</p>
+            <div class="form-group">
+
+                <select asp-for="Role">
+                    <option selected disabled>Choose Role</option>
+                    @foreach (var role in ViewBag.Roles)
+                    {
+                        <option value="@role">@role</option>
+                    }
+                </select>
+                <span asp-validation-for="Role" class="text-danger"></span>
+
+            </div>
+            <button type="submit" class="btn btn-primary me-2">Submit</button>
+            <button class="btn btn-light" asp-action="index">Cancel</button>
+        </form>
+    </div>
+</div>
